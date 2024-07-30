@@ -1,0 +1,2 @@
+# Machine_Learning_For_Startup_Success_Prediction
+mini project
