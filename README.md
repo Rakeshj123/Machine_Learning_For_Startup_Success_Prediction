@@ -1,2 +1,2 @@
 # Machine_Learning_For_Startup_Success_Prediction
-mini project
+PROSPERITY PROGNOSTICATOR:Startup Success Prediction using Machine Learninig
